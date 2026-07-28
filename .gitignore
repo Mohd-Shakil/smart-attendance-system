@@ -15,6 +15,7 @@ database/*.db
 
 # Trained model
 models/*.yml
+models/labels.json
 
 # VS Code settings
 .vscode/
