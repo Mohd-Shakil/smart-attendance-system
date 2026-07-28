@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Private student face images
+dataset/student_images/
+
+# Attendance and student information
+attendance/*.csv
+database/*.csv
+database/*.db
+
+# Trained model
+models/*.yml
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
